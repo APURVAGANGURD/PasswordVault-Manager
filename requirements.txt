@@ -1,0 +1,13 @@
+streamlit==1.32.2
+SQLAlchemy==2.0.25
+PyMySQL==1.1.0
+cryptography==42.0.2
+argon2-cffi==23.1.0
+python-dotenv==1.0.1
+pyotp==2.9.0
+qrcode==7.4.2
+pandas==2.2.1
+plotly==5.20.0
+email-validator==2.1.1
+matplotlib==3.8.4
+reportlab==4.1.0
